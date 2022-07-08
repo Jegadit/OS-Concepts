@@ -2,6 +2,8 @@
 
 #### Implemented in python and c
 
+//have taken some codes off of the net and have been worked on.
+
 Deadlock:
 - banker's algorithm
 
